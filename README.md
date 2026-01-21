@@ -1,4 +1,4 @@
-# Olá, meu nome é Guilherme Alcântara!
+# Hello World! I'm Guilherme Alcântara!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIN-Guilherme_Alcântara_de_Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermealcsouza)
@@ -6,15 +6,15 @@
 
 ## 🚀 Skills
 
-- Linguagens:  
+- Languages:  
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,java,mysql)](https://skillicons.dev)
 
-- Frameworks e Bibliotecas:  
+- Frameworks and Libraries:  
 
   [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel)](https://skillicons.dev)
 
-- Ferramentas:  
+- Tools:  
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,vscode,idea)](https://skillicons.dev)
 
@@ -24,13 +24,13 @@
 </div>
   <br>
   <p align="center">
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alcPresunto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alcPresunto&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alcPresunto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alcPresunto&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=false"/>
   </p>
   
-## 🏆 Projetos Destacados
+## 🏆 Relevant Projects
 
-- [BoraBio](https://github.com/alcPresunto/borabio-tcc): Trabalho de conclusão de curso. Plataforma educacional de Biologia construída com Laravel.
-- [Projeto Final WEB2](https://github.com/alcPresunto/Projeto-Final---WEB2): Loja virtual desenvolvida no projeto final da disciplina Aplicações para WEB 2 utilizando PHP e o padrão MVC.
-- [Releitura - Kangaroo](https://github.com/alcPresunto/Kangaroo-Grupo4): Trabalho Prático desenvolvido na disciplina de Linguagens e Técnicas de Programação 1. Utiliza C++ e a biblioteca SFML.
-- [Releitura - ActRaiser](https://github.com/alcPresunto/TP2-Grupo10): Trabalho Prático desenvolvido na disciplina de Linguagens e Técnicas de Programação 2. Utiliza Java, LibGDX e a implementação do padrão Builder.
+- [BoraBio](https://github.com/alcPresunto/borabio-tcc): Final course project. Biology educational platform built with Laravel.
+- [Projeto Final WEB2](https://github.com/alcPresunto/Projeto-Final---WEB2): Virtual store developed as the final project for the Web Applications 2 subject, using PHP and the MVC pattern.
+- [Releitura - Kangaroo](https://github.com/alcPresunto/Kangaroo-Grupo4): Practical assignment developed in the Programming Languages and Techniques 1 subject. Uses C++ and the SFML library.
+- [Releitura - ActRaiser](https://github.com/alcPresunto/TP2-Grupo10): Practical assignment developed in the Programming Languages and Techniques 2 subject. Uses Java, LibGDX, and an implementation of the Builder pattern.
